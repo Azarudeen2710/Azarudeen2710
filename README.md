@@ -9,5 +9,7 @@ Eager to learn and grow in a dynamic development environment.Passionate about cr
 🌟 Skills and Technologies:
 
   web Tools : HTML5, CSS3, JavaScript (ES6)
+  
   Framework : Bootstrap, React JS (React hooks and Reactstrap)
+  
   Software : Microsoft Application and Visual Studio
